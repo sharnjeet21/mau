@@ -6,5 +6,6 @@
   - item - 2
 
 |coloumn 1 | coloumn 2 |
-------------------------
-| hi | hi |
+|----------|-----------|
+| hi       | hi        |
+| hello    | hello     |
